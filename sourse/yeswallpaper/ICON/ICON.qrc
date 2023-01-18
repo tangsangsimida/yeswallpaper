@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>短视频.png</file>
+        <file>趣盒-icon_仓库.png</file>
+        <file>趣盒-icon_错误.png</file>
+        <file>趣盒-icon_个人.png</file>
+        <file>趣盒-icon_关注.png</file>
+        <file>趣盒-icon_设置.png</file>
+        <file>趣盒-icon_收起.png</file>
+        <file>趣盒-icon_下拉.png</file>
+        <file>趣盒-icon_消息中心.png</file>
+        <file>设置.png</file>
+        <file>搜索.png</file>
+        <file>下载中心.png</file>
+    </qresource>
+</RCC>
